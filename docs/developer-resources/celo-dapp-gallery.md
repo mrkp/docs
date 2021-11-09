@@ -134,6 +134,10 @@ Santym is a platform that allows Africans to have access to U.S Banking with cry
 
 Into the Verse is a Pixel Parallel Universe, connecting players on Celo. We have a Play2Earn NFT Dungeon Loot Game, game storefront and Token Swaps on Celo. Open Sourced on [github](https://github.com/Into-The-Verse/), we aim to bridge Defi and Gaming through token gated Pixel Metaverses.
 
+## Wam
+
+[Wam](https://wam.money/) is a mobile digital payments solution for the Caribbean. Wam is using Celo's blockchain technology to offer digital payments to a region which hasn't been penetrated with a digital solution as yet. With the addition of Celo's technology, Wam utilizes the option for users to go from cash to crypto as quickly and seamlessly as possible to move into the blockchain ecosystem to experience the benefits of DeFi, borderless payments and more. Our ecommerce solution is available for integration at [github](https://github.com/zed-io/wam-ecommerce-plugin-v1.git). 
+
 ## Add your app to this list
 
 _Are you building on Celo? To add your project, please submit a pull request updating this page!_
